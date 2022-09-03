@@ -9,7 +9,7 @@ lives = len(stages) -1
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
 
-print ("solution is:", chosen_word)
+#print ("solution is:", chosen_word)
 
 display =[] 
 for _ in chosen_word:
